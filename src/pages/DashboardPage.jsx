@@ -3,7 +3,7 @@ import Sidebar from '../components/Sidebar'
 import Navbar from '../components/Navbar'
 
 
-const Dashboard = () => {
+const DashboardPage = () => {
   return (
     <div className='bg-white '>
     <div className='flex bg-white '>
@@ -14,4 +14,4 @@ const Dashboard = () => {
   )
 }
 
-export default Dashboard
+export default DashboardPage

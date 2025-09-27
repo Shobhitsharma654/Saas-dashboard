@@ -1,10 +1,10 @@
-import React from 'react'
-import Dashboard from './pages/Dashboard'
+
+import DashboardPage from './pages/DashboardPage'
 
 const App = () => {
   return (
     <div className='min-h-screen bg-white '>
-      <Dashboard />
+    <DashboardPage/>
     </div>
   )
 }

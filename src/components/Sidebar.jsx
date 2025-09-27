@@ -42,7 +42,7 @@ const Sidebar = () => {
           </h2>
         </div>
       </div>
-      <hr className="border-t border-gray-200 mb-4" />
+       <hr className="border-t border-gray-200 dark:border-gray-700 mb-1" />
       {/* Menu */}
       <div className="flex-1">
         <h3 className="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-4  pb-2">
